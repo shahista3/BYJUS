@@ -1,0 +1,48 @@
+body {
+    background-color: purple;
+}
+
+.s1 {
+    background-color: white;
+margin-left: 700px;
+  padding: 2rem 2rem;
+  text-align: center;
+ position:static;
+ width: 200px;
+
+}
+
+.s2 {
+    margin-left: 500px;
+}
+.s3 {
+    margin-left: 500px;
+}
+.s4 {
+margin-left: 200px;
+margin-right: 0px;
+
+}
+
+.parent {
+    display:flex
+}
+.child1 {
+    margin-left: 200px;
+}
+.child2 {
+    margin-left: -400px;
+}
+
+
+    
+        .list1 {
+            margin-left: 700px;
+            margin-top:-300;
+        }
+
+
+li:hover {
+    background-color: aquamarine;
+    
+}
