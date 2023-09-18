@@ -3,3 +3,4 @@
 - One readme file
 - One index file
 - One css file
+- Basic Structure Created
