@@ -7,5 +7,5 @@
 
 | Work status | Yes/No |
 | ----------- | ----------- |
-| Form | Yes |
-| List | No |
+| Form | **Yes** |
+| List | **No** |
